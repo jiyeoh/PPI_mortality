@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Ignore data files
+data/Assessment_sample
+data/Codelist
+
